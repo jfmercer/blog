@@ -3,7 +3,7 @@ layout: post
 title: Installing Java 7 on OS X
 date: 2011-3-18
 comments: true
-categories: java
+categories: [java, osx]
 link: false
 ---
 <div class="posterous_autopost">

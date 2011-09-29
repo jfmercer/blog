@@ -3,7 +3,7 @@ layout: post
 title: Optimizing Time Machine Backups
 date: 2011-3-14
 comments: true
-categories: featured
+categories: [featured, osx]
 link: false
 ---
 <div class="posterous_autopost">

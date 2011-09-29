@@ -3,7 +3,7 @@ layout: post
 title: "Vim: List the Most Recent Files Edited"
 date: 2011-3-23
 comments: true
-categories: text editing
+categories: tools
 link: false
 ---
 <p><span style="color: #202020; font-family: Georgia; line-height: 22px;"><span style="letter-spacing: -1px; line-height: 34px; font-size: medium;"><strong>List of most recent files edited in Vim</strong></span><p>&nbsp;

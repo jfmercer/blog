@@ -3,6 +3,7 @@ layout: post
 title: How To Calculate SHA1 on Mac OS X
 date: 2011-7-6
 comments: true
+categories: [tools, osx]
 link: false
 ---
 1. Open Terminal (located in /Applications/Utilities).

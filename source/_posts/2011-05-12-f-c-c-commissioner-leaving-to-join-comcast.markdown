@@ -3,7 +3,7 @@ layout: post
 title: F.C.C. Commissioner Leaving to Join Comcast
 date: 2011-5-12
 comments: true
-categories: cultural criticism featured
+categories: culture
 link: false
 ---
 The New York Times reported yesterday that Meredith Attwell Baker, a commissioner at the F.C.C., will be leaving her current post to join Comcast.

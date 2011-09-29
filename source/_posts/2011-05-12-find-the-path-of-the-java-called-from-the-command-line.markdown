@@ -3,6 +3,7 @@ layout: post
 title: find the path of the java called from the command line
 date: 2011-5-12
 comments: true
+categories: [java, osx]
 link: false
 ---
 From <a href="http://www.commandlinefu.com/commands/view/8452/find-the-path-of-the-java-called-from-the-command-line">commandlinefu.com</a>:

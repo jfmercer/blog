@@ -3,7 +3,7 @@ layout: post
 title: A Brief History of Blogging (Or, Cultural Epistemology Revisited)
 date: 2011-3-21
 comments: true
-categories: featured
+categories: [featured, culture]
 link: false
 ---
 &nbsp;
@@ -20,6 +20,3 @@ Nevertheless, I cannot get over the feeling that we do not yet have any clue abo
 
 <a href="http://www.webdesignerdepot.com/2011/03/a-brief-history-of-blogging/" target="_blank">webdesigner depot</a>
 
-&nbsp;
-
-&nbsp;

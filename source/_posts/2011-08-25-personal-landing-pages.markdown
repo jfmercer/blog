@@ -3,7 +3,7 @@ layout: post
 title: Personal Landing Pages
 date: 2011-8-25
 comments: true
-categories: design featured
+categories: [web design, featured]
 link: false
 ---
 Last night I completed my <a title="John F. Mercer - Personal Landing Page" href="http://jfmercer.me/" target="_blank">personal landing page</a>. "What is that?", you may ask. The short answer is that it is a digital equivalent of your business card. It presents <em>you</em> in a condensed form. However, it is much more powerful than a paper business card. It unifies all of your online profiles in a simple &amp; visually appealing manner. It takes the chaos of your myriad digital personas (LinkedIn, Facebook, Twitter, WordPress, Flickr, Google, Last.fm, etc.) and combines them in a single place in a clear, simple format. Although there are <a href="http://lifehacker.com/5534456/five-best-personal-landing-pages">a number</a> of personal landing page services available, I choose to use <a href="http://flavors.me">Flavors.me</a> because of its emphasis on style &amp; presentation. A landing page should capture the attention, rivet the gaze, and dazzle the eye. Flavors.me does this better than any other service I'm aware of. Take, for instance, just three examples of landing pages found there.

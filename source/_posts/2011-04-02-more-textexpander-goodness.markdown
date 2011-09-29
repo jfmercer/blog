@@ -3,7 +3,7 @@ layout: post
 title: More TextExpander Goodness
 date: 2011-4-2
 comments: true
-categories: cli
+categories: tools
 link: false
 ---
 <p>SmileOnMyMac's <a href="http://smilesoftware.com/TextExpander/">TextExpander</a> utility has long been a favorite of Mac OS X productivity geeks. Fundamentally, the program itself is very simple: it allows you to create short text snippets which automatically expand into custom text content. For example, in any program on my Mac, when I type "nname," it automatically expands to "John F. Mercer." This is especially handy for long, repetitive command line functions that you use often enough for their length to annoy you, but not often enough to justify creating another ALIAS in your .bashrc or .profile. After a while, TextExpander saves hours or even days of typing time.</p>

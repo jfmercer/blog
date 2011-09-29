@@ -3,6 +3,7 @@ layout: post
 title: Apple Almost Worth More than Microsoft, Dell, and HP Combined
 date: 2011-6-13
 comments: true
+categories: news
 link: false
 ---
 <a href="http://www.tuaw.com/2011/06/13/apple-almost-worth-more-than-microsoft-hp-and-dell-combined/">TUAW reports</a> that Apple is almost worth more than Microsoft, Dell, &amp; HP combined. A few years ago, no one would have believed that this was possible:

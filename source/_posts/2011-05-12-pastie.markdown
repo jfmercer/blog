@@ -3,9 +3,10 @@ layout: post
 title: Pastie
 date: 2011-5-12
 comments: true
+categories: [tools, osx]
 link: false
 ---
-From <a href="http://onethingwell.org/post/5421734415/pastie">One Thing Wel</a>l:
+From <a href="http://onethingwell.org/post/5421734415/pastie">One Thing Well</a>l:
 
 <a href="http://pastieapp.com/">Pastie</a> is a "clipboard management utility for OS X with some interesting features—it keeps track of which app you copied from, lets you organise your clipboard by tab and apply filters to keep stuff out of the clipboard."
 

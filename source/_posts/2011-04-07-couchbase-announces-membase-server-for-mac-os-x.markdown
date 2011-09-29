@@ -3,6 +3,7 @@ layout: post
 title: Couchbase Announces Membase Server for Mac OS X
 date: 2011-4-7
 comments: true
+categories: databases
 link: false
 ---
 Good news today for Apple developers who are also noSQL enthusiasts: CouchBase has officially released their Membase Server for OS X.

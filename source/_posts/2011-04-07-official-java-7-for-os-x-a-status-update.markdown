@@ -3,6 +3,7 @@ layout: post
 title: "Official Java 7 for OS X: A Status Update"
 date: 2011-4-7
 comments: true
+categories: [java, osx]
 link: false
 ---
 Contrary to fanciful rumor, Apple is not planning to drop Java or "go after" Oracle. DZone reports that

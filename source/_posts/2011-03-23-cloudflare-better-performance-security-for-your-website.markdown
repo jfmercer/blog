@@ -3,7 +3,7 @@ layout: post
 title: "CloudFlare: Better Performance & Security for Your Website"
 date: 2011-3-23
 comments: true
-categories: [featured, development, design]
+categories: [featured, web development, web design]
 link: false
 ---
 If you own &amp; run websites, you are always looking into better security as well as performance enhancements for you site. I received a tip recently about a new startup called <a href="http://www.cloudflare.com/">CloudFlare</a> that fulfills both of those demands. Here I shall give a brief overview of CloudFlare so that you can see if it is something your websites could benefit from.
@@ -30,7 +30,7 @@ In addition to security, CloudFlare offers performance boosts. Although your mil
 </ul>
 My own site's page-load time dropped from 2.25 seconds to 1.06 seconds: a 52.89% increase! And that's just the free package! This is important not only to retain visitors, but also to boost your SEO rankings. Last April, Google announced that page-load would affect search rankings, and this set off a scramble as webmasters sought to increase speed without losing quality or content. Google added that 1.5 seconds or lower was ideal. The free package includes a number of speed optimizations, including static image caching, auto-minify for JavaScript &amp; CSS, &amp; a beta feature called "Rocket Script" which asynchronously loads JavaScript resources to boost page-rendering. (It smells like free AJAX to me . . .) Pro accounts also have the option of more advanced security features, such as a Web App Firewall, as well as a website preloader which automatically preloads static resources from your site to produce much faster load times.
 
-<span style="text-decoration: underline;"><span style="font-size: medium;">Other Cool Features</span></span>
+<span style="text-decoration: underline;"><span style="font-size: large;">Other Cool Features</span></span>
 
 CloudFlare also offers easy Google Analytics integration, an analytics dashboard to monitor outbound links, regular traffic, crawlers &amp; bots, &amp; visits (or attempted visits) from known threats, email address obfuscation, server-side exclude (that's geek-speak for hiding sensitive info from questionable visitors), IP geolocation, browser integrity checks, hotlink protection, and more.
 
@@ -50,11 +50,11 @@ So, your grandma just got an iMac, and she's so proud of you, her web-geek grand
 
 Unless you're running serious full-scale enterprise servers, CloudFlare's free service should cover your needs. The Pro version runs at $20/month for your first site and $5/month for each additional. If I ever have money again, I'll upgrade to Pro for the added security &amp; the faster page loads. CloudFlare Enterprise is still in the works; you'll have to <a href="https://www.cloudflare.com/enterprise-advisory-board.html" target="_blank">contact CloudFlare Enterprise</a> to get an estimated price &amp; delivery date.
 
-<span style="text-decoration: underline; font-size: medium;">Cool Intro Video</span>
+<span style="text-decoration: underline;"><span style="font-size: medium;">Cool Intro Video</span></span>
 
 CloudFlare in 90 seconds:
 
-&nbsp;
+<iframe src="http://player.vimeo.com/video/14700285?title=0&amp;byline=0&amp;portrait=0" width="400" height="225" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe><p><a href="http://vimeo.com/14700285">Us in 90 Seconds</a> from <a href="http://vimeo.com/user3546461">CF Vimeo</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
 
 <span style="text-decoration: underline; font-size: large;">Conclusion</span>
 

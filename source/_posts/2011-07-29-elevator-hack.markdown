@@ -3,7 +3,7 @@ layout: post
 title: Elevator Hack
 date: 2011-7-29
 comments: true
-categories: Offtopic
+categories: offtopic
 link: false
 ---
 Now you'll never have to stop for anyone else.

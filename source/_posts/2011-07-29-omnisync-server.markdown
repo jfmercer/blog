@@ -3,7 +3,7 @@ layout: post
 title: Omnisync Server
 date: 2011-7-29
 comments: true
-categories: cloud
+categories: [tools, osx]
 link: false
 ---
 Omnigroup is now beta testing a cloud-based server which will "keep OmniFocus current and move your OmniOutliner, OmniGraffle, or OmniGraphSketcher documents between all of your Mac, iPhone, or iPad devices." It's free for the time being, although Omnigroup may charge for the service once it gets out of beta.

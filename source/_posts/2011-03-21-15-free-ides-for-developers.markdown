@@ -3,7 +3,7 @@ layout: post
 title: 15 Free IDEs for Developers
 date: 2011-3-21
 comments: true
-categories: developer
+categories: [tools, web development, web design]
 link: false
 ---
 <p></p><p>Programming: Here's a list of 15 free IDEs for Developers. Most of them are familiar already, but one that is underrated in Aptana Studio. I've found that it's the best free web development IDE that I know of. Of course, for serious programming, there's Eclipse, Visual Studio Express, Netbeans, et al.&nbsp;

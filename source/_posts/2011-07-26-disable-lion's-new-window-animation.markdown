@@ -3,6 +3,7 @@ layout: post
 title: "Disable Lion's New Window Animation"
 date: 2011-7-26
 comments: true
+categories: osx
 link: false
 ---
 A very welcome tip:

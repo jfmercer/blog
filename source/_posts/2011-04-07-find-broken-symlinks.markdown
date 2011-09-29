@@ -3,7 +3,7 @@ layout: post
 title: Find Broken Symlinks
 date: 2011-4-7
 comments: true
-categories: cli
+categories: tools
 link: false
 ---
 $ find . -type l | xargs file  | grep broken

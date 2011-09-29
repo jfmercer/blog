@@ -3,7 +3,7 @@ layout: post
 title: "James Gosling: 'Aggressively stupid' won't work for Oracle"
 date: 2011-3-18
 comments: true
-categories: java
+categories: [java, news]
 link: false
 ---
 <div class="posterous_autopost">

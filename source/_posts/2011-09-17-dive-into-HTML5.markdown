@@ -3,7 +3,7 @@ layout: post
 title: "Dive into HTML5"
 date: 2011-09-17
 comments: true
-categories: HTML5 design development
+categories: [HTML5, web design, web development]
 ---
 
  [Mark Pilgrim](http://diveintomark.org), perhaps best known for his excellent introductory Python text, [*Dive into Python*](http://www.amazon.com/Dive-Into-Python-Mark-Pilgrim/dp/1441413022/ref=sr_1_5?s=books&ie=UTF8&qid=1316316128&sr=1-5), has recently published a new book, [*HTML5: Up and Running*](http://www.amazon.com/HTML5-Up-Running-Mark-Pilgrim/dp/0596806027/ref=sr_1_1?s=books&ie=UTF8&qid=1316316128&sr=1-1). HTML5 is the future of the web. It's also somewhat difficult to learn given how much more powerful it is than HTML 4.0 & XHTML. Pilgrim has a knack for teaching and writing. If *HTML5: Up and Running* is even half as good as *Dive into Python*, then it will be well worth the read. 

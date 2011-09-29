@@ -3,7 +3,7 @@ layout: post
 title: "xargs: Your Command Line Swiss Army Knife"
 date: 2011-6-13
 comments: true
-categories: cli
+categories: tools
 link: false
 ---
 Here's a cool plug for xargs from <a href="http://onethingwell.org/post/6488680624/xargs">One Thing Well</a>:
